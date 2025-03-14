@@ -54,17 +54,10 @@ This project showcases the deployment and configuration of osTicket, an open-sou
 - Created user roles and permissions.
 - Tested the system to ensure proper ticket creation and management.
 
-## Screenshots
-(Include images showing key steps and the final working setup)
-
 ## Lessons Learned
 - Gained hands-on experience with Azure cloud services.
 - Learned how to configure IIS for web applications.
 - Improved troubleshooting skills when dealing with server-related issues.
-
-## Future Improvements
-- Automate the deployment process using PowerShell or Terraform.
-- Explore additional security configurations for osTicket.
 
 <h2>Installation Steps</h2>
 
